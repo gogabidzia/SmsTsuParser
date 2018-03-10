@@ -8,9 +8,9 @@ var options = {
     path: '/sms/Students/StudentMain.aspx'
 };
 
-var firstname = "გიორგი";
-var lastname = "ცირეკიძე";
-var password = "46472444";
+var firstname = "sax";
+var lastname = "gvar";
+var password = "pass";
 
 var req = http.get(options, function (res) {
     var bodyChunks = [];
